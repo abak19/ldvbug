@@ -1,7 +1,7 @@
 LDVBug
 ======
 
-The LDVBug is a mobile Robot. It was a Bachelor-Thesis at [LDV](www.ldv.ei.tum.de).
+The LDVBug is a mobile Robot. It was a Bachelor-Thesis at [LDV](http://www.ldv.ei.tum.de).
 ## Dokumentation
-[Visit Project-Doku](www.alexander-blum.com/studium/ldvbug)
+[Visit Project-Doku](http://www.alexander-blum.com/studium/ldvbug)
 
